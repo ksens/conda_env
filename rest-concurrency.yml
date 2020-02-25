@@ -1,0 +1,8 @@
+name: rest-concurrency 
+channels:
+#  - conda-forge 
+dependencies:
+  - pycurl 
+  - requests
+  - pyyaml
+  - pandas

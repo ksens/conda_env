@@ -1,0 +1,8 @@
+name: webscraper
+channels:
+  - conda-forge 
+dependencies:
+  - pandas
+  - Requests
+  - beautifulsoup4
+  - mechanize

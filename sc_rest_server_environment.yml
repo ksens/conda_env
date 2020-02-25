@@ -1,0 +1,16 @@
+name: sc_rest_server 
+channels:
+  - conda-forge 
+  - travis
+dependencies:
+  - psycopg2 
+  - pyyaml
+  - flask
+  - flask-restful
+  - pandas
+  - numpy 
+  - pip
+  - pyarrow=0.14.0
+  - requests
+  - sqlalchemy
+  - pycurl
