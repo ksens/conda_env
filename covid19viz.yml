@@ -1,0 +1,9 @@
+name: covid19viz 
+# channels:
+#   - conda-forge 
+#   - travis
+dependencies:
+  - pandas
+  - numpy 
+  - scipy
+  - plotly
