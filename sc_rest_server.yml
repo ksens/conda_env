@@ -16,3 +16,4 @@ dependencies:
   - pycurl
   - scipy
   - s3fs
+  - filetype
