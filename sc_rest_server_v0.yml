@@ -1,11 +1,12 @@
-name: sc_rest_server_v2 
+name: sc_rest_server 
 channels:
-  - conda-forge
+  - conda-forge 
+  - travis
 dependencies:
   - psycopg2 
   - pyyaml
   - flask
-  - flask-restx
+  - flask-restful
   - pandas
   - numpy 
   - pip
