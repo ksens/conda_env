@@ -1,4 +1,4 @@
-name: sc_rest_server_v2 
+name: sc_rest_server 
 channels:
   - conda-forge
 dependencies:
