@@ -6,3 +6,5 @@ dependencies:
   - Requests
   - beautifulsoup4
   - mechanize
+  - pyyaml
+  - selenium
