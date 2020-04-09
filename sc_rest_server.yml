@@ -16,3 +16,4 @@ dependencies:
   - scipy
   - s3fs
   - filetype
+  - gunicorn
