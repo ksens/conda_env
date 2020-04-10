@@ -17,3 +17,5 @@ dependencies:
   - s3fs
   - filetype
   - gunicorn
+  - boto3
+  - uritools 
