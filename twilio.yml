@@ -1,0 +1,7 @@
+name: twilio 
+# channels:
+#   - conda-forge
+dependencies:
+#   - twilio 
+  - flask 
+  - requests 
