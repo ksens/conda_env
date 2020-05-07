@@ -2,9 +2,11 @@ name: webscraper
 channels:
   - conda-forge 
 dependencies:
+  - python=3.7
   - pandas
   - Requests
   - beautifulsoup4
   - mechanize
   - pyyaml
   - selenium
+  - pyperclip
