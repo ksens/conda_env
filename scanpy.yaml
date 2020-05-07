@@ -1,0 +1,13 @@
+name: scanpy 
+channels:
+  - bioconda 
+  - conda-forge
+dependencies:
+  - anndata
+  - legacy-api-wrap
+  - umap-learn
+  - louvain
+  - importlib-metadata
+  - leidenalg
+  - scanpy 
+  - scipy
