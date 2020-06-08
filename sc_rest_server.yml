@@ -6,6 +6,7 @@ dependencies:
   - pyyaml
   - flask
   - flask-restx
+  - Flask-HTTPAuth 
   - pandas
   - numpy 
   - pip
