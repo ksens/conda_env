@@ -1,0 +1,5 @@
+name: scidb_auth_server 
+dependencies:
+  - flask
+  - flask-restx
+  - Flask-HTTPAuth 
