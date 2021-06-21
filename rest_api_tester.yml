@@ -1,0 +1,8 @@
+name: rest_api_tester 
+channels:
+  - conda-forge
+dependencies:
+  - json 
+  - requests
+  - pandas
+  
