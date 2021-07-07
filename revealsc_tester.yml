@@ -1,0 +1,6 @@
+name: revealsc_tester 
+dependencies:
+  - pandas
+  - numpy
+  - pyarrow
+  - threading
