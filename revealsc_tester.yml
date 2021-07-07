@@ -3,4 +3,4 @@ dependencies:
   - pandas
   - numpy
   - pyarrow
-  - threading
+  - jupyterlab
