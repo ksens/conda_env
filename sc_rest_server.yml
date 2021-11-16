@@ -18,5 +18,5 @@ dependencies:
   - s3fs
   - filetype
   - gunicorn
-  - boto3
+  - boto3=1.12.39
   - uritools 
