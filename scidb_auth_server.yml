@@ -1,15 +1,1 @@
-name: scidb_auth_server 
-channels:
-  - conda-forge
-dependencies:
-  - python=3.7
-  - flask
-  - flask-restx
-  - Flask-HTTPAuth 
-  - numpy
-  - pandas
-  - pyarrow
-  - requests
-  - gunicorn
-  - pyyaml
-
+Moved to https://github.com/Paradigm4/cs_tool_kit/blob/master/scidb_auth_server/server/conda_scidb_auth_server.yml
